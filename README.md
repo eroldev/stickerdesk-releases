@@ -12,6 +12,8 @@ Windows 10/11, x64. The installer includes everything needed to run the app. Thi
 
 You can also check manually through **tray icon → Updates… → Check for updates → Download & restart**.
 
+StickerDesk starts automatically when you sign in to Windows and restores your open stickers and their saved positions, contents and appearance. Archived stickers stay closed. To turn automatic startup off, right-click the tray icon and uncheck **Start with Windows**; this choice is preserved through updates.
+
 Stickers, images and history stay on each PC. There is no cloud sync. Activation works offline, and updates preserve your local data and license. Keep your license file private.
 
 The installer is currently unsigned; Windows may show an unknown-publisher warning.
