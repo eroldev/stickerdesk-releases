@@ -8,7 +8,9 @@ Windows 10/11, x64. The installer includes everything needed to run the app. Thi
 
 1. Run the installer.
 2. Choose your private `.stickerlicense` file on first launch.
-3. Use the tray icon to create stickers or open **Updates…**. Choose **Download & restart** when a new version is available.
+3. Use the tray icon to create stickers. When an update is available, a download icon appears on every sticker, even when collapsed; click it to install and restart. The app checks automatically after startup and every five minutes.
+
+You can also check manually through **tray icon → Updates… → Check for updates → Download & restart**.
 
 Stickers, images and history stay on each PC. There is no cloud sync. Activation works offline, and updates preserve your local data and license. Keep your license file private.
 
